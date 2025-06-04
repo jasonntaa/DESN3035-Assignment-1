@@ -95,7 +95,6 @@ section {
 }
 
 footer {
-
     text-align: center;
     padding: 1rem;
     background: #333;
@@ -213,9 +212,9 @@ textarea{
     border: solid 2px rgb(186, 186, 186);
     border-radius: 2rem;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
-    width: 20rem;
-    height: 10rem;
-    padding: 8rem;
+    width: 15rem;
+    height: 15rem;
+    padding: 5rem;
 
 }
 
